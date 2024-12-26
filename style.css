@@ -1,0 +1,35 @@
+#container {
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.bar {
+    width: 30px;
+    background-color: white;
+    margin: 1px;
+}
+ 
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+#initButton {
+    width: 130px;
+    height: 30px;
+}
+
+
+#playButton {
+    width: 130px;
+    height: 30px;
+}
